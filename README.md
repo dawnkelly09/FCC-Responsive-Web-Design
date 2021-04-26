@@ -1,2 +1,2 @@
 # FCC-Responsive-Web-Design
-Projects for Response Web Design Certification from FreeCodeCamp
+Projects for Responsive Web Design Certification from FreeCodeCamp
